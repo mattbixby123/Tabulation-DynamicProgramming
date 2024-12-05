@@ -34,7 +34,7 @@ public class allConstruct {
             }
         }
 
-        // Return all ways to construct target
+        // Return all of the ways to construct target
         return table[target.length()];
     }
 
